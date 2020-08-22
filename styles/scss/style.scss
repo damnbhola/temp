@@ -1,0 +1,105 @@
+* {
+  box-sizing: border-box;
+  font-weight: 500;
+}
+
+h1.title {
+  font-size: 150px;
+}
+
+// @font-face {
+//   font-family: 'ceraRound';
+//   src: 'ceraround/TypeMatesCeraRoundProRegular.otf';
+//   font-weight: 400;
+// }
+// @font-face {
+//   font-family: 'CeraRound';
+//   src: url("./assets/fonts/ceraround/TypeMatesCeraRoundProBlack.otf");
+//   font-weight: 800;
+// }
+
+// @font-face {
+//   font-family: 'CeraRound';
+//   src: url("./assets/fonts/ceraround/TypeMatesCeraRoundProBold.otf");
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: 'CeraRound';
+//   src: url("./assets/fonts/ceraround/TypeMatesCeraRoundProMedium.otf");
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: 'CeraRound';
+//   src: url("./assets/fonts/ceraround/TypeMatesCeraRoundProMedium.otf");
+//   font-weight: 600;
+// }
+
+// @font-face {
+//   font-family: 'CeraRound';
+//   src: url("./assets/fonts/ceraround/TypeMatesCeraRoundProRegular.otf");
+//   font-weight: 400;
+// }
+// @font-face {
+//   font-family: 'CeraRound';
+//   src: url("./assets/fonts/ceraround/TypeMatesCeraRoundProBlack.otf");
+//   font-weight: 800;
+// }
+
+// @font-face {
+//   font-family: "nexaBold";
+//   src: url("/fonts/nexa/NexaBlack.otf");
+//   font-weight: 800;
+// }
+
+// @font-face {
+//   font-family: "nexaBold";
+//   src: url("/fonts/nexa/NexaBold.otf");
+//   font-weight: 700;
+// }
+
+// @font-face {
+//   font-family: "nexa";
+//   src: url("/fonts/nexa/NexaBook.otf");
+//   font-weight: 600;
+// }
+
+// @font-face {
+//   font-family: "nexa500";
+//   src: url("/fonts/nexa/NexaXBold.otf");
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: "nexa";
+//   src: url("/fonts/nexa/NexaRegular.otf");
+//   font-weight: 400;
+// }
+
+// @font-face {
+//   font-family: "nexa";
+//   src: url("/fonts/nexa/NexaThin.otf");
+//   font-weight: 300;
+// }
+
+// @font-face {
+//   font-family: "nexa";
+//   src: url("/fonts/nexa/nexa-Light.otf");
+//   font-weight: 100;
+// }
+
+// /\.(png|jpg|gif|svg|eot|ttf|woff|woff2)$/,
+// body {
+//   font-family: nexa !important;
+// font-weight: 800 !important;
+// }
+
+// @import "./css/_variable.scss";
+
+@import "./_landing.scss";
+// @import "./css/_nprogress.scss";
+// Responsive
+
+@import "./_landingResponsive.scss";
+// @import "~react-image-gallery/styles/scss/image-gallery.scss";
